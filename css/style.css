@@ -1,0 +1,76 @@
+.nav {
+    background: rgb(0, 0, 0);
+  }
+footer{
+  background: rgb(0, 0, 0);
+}
+  
+  .nav-item {
+    padding: 5px;
+  }
+  
+  .nav-item:hover, .active {
+    background:rgb(0, 0, 0);
+  }
+  .nav-iitem:hover, .active {
+    background:rgb(230, 226, 26)9, 77, 69;
+  }
+  .nav-iiitem:hover, .active {
+    background:rgb(243, 225, 66);
+  }
+  .nav-iiiitem:hover, .active {
+    background:rgb(250, 241, 121);
+  }
+  
+  .nav-link, .nav-link:hover {
+    color: #c4c4c4;
+    font: bold 14px sans-serif;
+  }
+  
+  /* Section */
+  
+
+  body{
+    color: rgb(255, 238, 0);
+    }
+  
+  p{
+    font-family: "Fredoka One";
+    color:rgb(0, 0, 0), 5, 3;
+  }
+  /* CUSTOMIZE THE CAROUSEL */
+
+.carousel a:hover {
+  background: rgba(0, 0, 0, 0.2);
+}
+i{
+  color:rgb(0, 0, 0);
+}
+body{
+  background: rgb(0, 0, 0); 
+  color: #fc0; 
+}
+h1{
+  font-family: "Staatliches";
+}
+h2{
+  font-family: "Fredoka One";
+  color:rgb(0, 0, 0), 5, 3;
+}
+h3{
+  font-family: "Fredoka One";
+  color:rgb(0, 0, 0), 5, 3;
+}
+
+h5{
+  font-family: "Fredoka One";
+  color:rgb(0, 0, 0), 5, 3;
+}
+h4{
+  font-family: "Fredoka One";
+  color:rgb(0, 0, 0), 5, 3;
+}
+a{
+  font-family: "Fredoka One";
+  color:rgb(0, 0, 0), 5, 3;
+}
